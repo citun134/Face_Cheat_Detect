@@ -1,0 +1,7 @@
+Face_Rec/FaceDataset/faces_dataset.npz
+
+FaceDataset/train/nguyen_trung_duc/
+FaceDataset/val/nguyen_trung_duc/
+
+FaceDataset/train/to_van_tu/
+FaceDataset/val/to_van_tu/
