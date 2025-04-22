@@ -25,7 +25,7 @@ Face_Rec/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/Face_Cheat_Detect.git
+git clone https://github.com/citun134/Face_Cheat_Detect.git
 cd Face_Cheat_Detect
 ```
 
@@ -51,7 +51,7 @@ After downloading, place the `L2CSNet_gaze360.pkl` file in the appropriate folde
 Once all dependencies and the model are set up, you can run the detection script:
 
 ```bash
-python Face_Rec/Silent_Face_Anti_Spoofing/cheat_detection.py
+python Silent_Face_Anti_Spoofing/cheat_detection.py
 ```
 
 ---
@@ -66,8 +66,8 @@ python Face_Rec/Silent_Face_Anti_Spoofing/cheat_detection.py
 
 ## 🙌 Acknowledgements
 
-- [L2CSNet: Looking To Listen](https://github.com/DeanChan/L2CS-Net)
-- [Silent-Face-Anti-Spoofing](https://github.com/ZitongYu/Silent-Face-Anti-Spoofing)
+- [L2CSNet](https://github.com/Ahmednull/L2CS-Net.git)
+- [Silent-Face-Anti-Spoofing](https://github.com/minivision-ai/Silent-Face-Anti-Spoofing.git)
 
 ---
 
